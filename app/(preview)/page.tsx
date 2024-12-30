@@ -160,7 +160,7 @@ export default function ChatWithFiles() {
               Upload a PDF to generate an interactive quiz based on its content
               using the <Link href="https://sdk.vercel.ai">AI SDK</Link> and{" "}
               <Link href="https://sdk.vercel.ai/providers/ai-sdk-providers/google-generative-ai">
-                Google&apos;s Gemini Pro
+                Google&apos;s Gemini Pro - MVP
               </Link>
               .
             </CardDescription>

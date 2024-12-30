@@ -39,3 +39,6 @@ To learn more about Vercel AI SDK or Next.js take a look at the following resour
 - [Vercel AI Playground](https://play.vercel.ai)
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 
+Hot to easily get the Gemini API key
+
+https://aistudio.google.com/app/apikey?_gl=1*1vpkad9*_ga*MTY2OTE3NTc5NC4xNzM0NzExOTgy*_ga_P1DBVKWT6V*MTczNTUxNzE2Mi40LjEuMTczNTUxNzIxOS4zLjAuMTk0NjA2NjgwNQ..
